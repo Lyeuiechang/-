@@ -1,0 +1,3 @@
+[submodule "scripts/WOW"]
+	path = scripts/WOW
+	url = https://github.com/matthieua/WOW.git
